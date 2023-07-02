@@ -1,0 +1,8 @@
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# Orn Uygulama\Kalitim(inheritance)uygulamasi2\bin\Debug\Kalitim(inheritance)uygulamasi2.exe.config
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# Orn Uygulama\Kalitim(inheritance)uygulamasi2\bin\Debug\Kalitim(inheritance)uygulamasi2.exe
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# Orn Uygulama\Kalitim(inheritance)uygulamasi2\bin\Debug\Kalitim(inheritance)uygulamasi2.pdb
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# Orn Uygulama\Kalitim(inheritance)uygulamasi2\obj\Debug\Kalitim(inheritance)uygulamasi2.csproj.AssemblyReference.cache
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# Orn Uygulama\Kalitim(inheritance)uygulamasi2\obj\Debug\Kalitim(inheritance)uygulamasi2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# Orn Uygulama\Kalitim(inheritance)uygulamasi2\obj\Debug\Kalitim(inheritance)uygulamasi2.csproj.CoreCompileInputs.cache
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# Orn Uygulama\Kalitim(inheritance)uygulamasi2\obj\Debug\Kalitim(inheritance)uygulamasi2.exe
+C:\Users\ah1ol\OneDrive\Belgeler\Masaustu\Dersler\C# Orn Uygulama\Kalitim(inheritance)uygulamasi2\obj\Debug\Kalitim(inheritance)uygulamasi2.pdb
